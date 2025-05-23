@@ -83,10 +83,10 @@
   
   .cartao {
     background: linear-gradient(to bottom, #1ba0a9, #207fc1);
-    border-radius: 8px;
     color: #fff;
+    border-radius: 8px;
     padding: 16px;
-    width: 300px;
+    width: 320px;
     margin: 40px 0 20px 20px;
     display: none;
   }
@@ -101,11 +101,12 @@
   }
   
   .foto-icon {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     overflow: hidden;
     flex-shrink: 0;
+    background: #7a7a7a;
   }
   
   .foto-icon img {

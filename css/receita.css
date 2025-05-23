@@ -130,11 +130,12 @@
   }
   
   .foto-icon {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     overflow: hidden;
     flex-shrink: 0;
+    background: #7a7a7a;
   }
   
   .foto-icon img {
